@@ -5,3 +5,6 @@ This repository contains the source code for both the journal version and confer
 
 The work conducts a multi-connectivity framework across aerial and terrestrial links to provide ubiquitous and reliable service to aerial vehicles. 
 The code performs a Monte Carlo simulation to analyze end-to-end reliability and delay across different communication paths. It also proposes an optimal multi-connectivity solution for remote piloting of aerial vehicles to maximize spectral efficiency under stringent QoS constraints, including reliability, delay, and network availability.
+
+# Referencing
+If you use this code in any way for research that results in publications, please cite our original article/articles listed above.
